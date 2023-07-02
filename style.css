@@ -1,4 +1,6 @@
-
+body{
+    background: url(fundo-horizontal.png);
+}
 
 ul{
     margin: 0 auto;
