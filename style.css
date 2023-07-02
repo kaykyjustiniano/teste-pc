@@ -1,4 +1,6 @@
-
+body{
+    background: url(fundo-horizontal.png);
+}
 
 ul{
     margin: 0 auto;
@@ -16,7 +18,7 @@ ul li{
 }
 
 li a{
-    
+    display: flex;
     display: inline-block;
     line-height: 2em;
     padding: 0 2em;
