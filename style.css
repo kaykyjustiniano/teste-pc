@@ -1,0 +1,32 @@
+
+
+ul{
+    margin: 0 auto;
+    width: 720px;
+text-align: center;
+    background-color: rgb(20, 165, 223);
+    background-image: url(fundo-horizontal.png);
+    background-repeat: repeat-x;
+    list-style: none;
+    
+}
+
+ul li{
+    display: inline-block;
+}
+
+li a{
+    
+    display: inline-block;
+    line-height: 2em;
+    padding: 0 2em;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background: url(divisor.png);
+    background-repeat: repeat-y;
+    background-position: left;
+}
+
+a:hover{
+    color: rgb(62, 62, 163);
+}
